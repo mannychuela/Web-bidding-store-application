@@ -1,13 +1,10 @@
 
 /********
-CPEN 410 Mobile, Web, and Internet programming
-
 This servlet perform a dummy authentication process
 if the user is authenticated, it sends a json objects containing: id, name, userName and email
 Required values:
 	userName: user
 	passWord: pass
-
 ******************/
 
 // Import required java libraries
