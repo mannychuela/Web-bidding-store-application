@@ -1,6 +1,4 @@
-# Web online store applicaton
-
-Mini eBay
+# Web bidding store applicaton
 
 + Description:
     Implement a bid-based online store.
