@@ -1,4 +1,4 @@
-# Mini_eBay
+# Web online store applicaton
 
 Mini eBay
 
